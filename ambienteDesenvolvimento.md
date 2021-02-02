@@ -1,26 +1,28 @@
 README
-      "workbench.colorTheme": "Dracula",
-      "editor.fontSize": 18,
-      "editor.lineHeight": 24,
-      "workbench.iconTheme": "vscode-icons",
-      "editor.formatOnSave": true, //formatar e endentar o arquivo
-      "editor.rulers": [
-          80,
-          120
-      ], // define o espaçamento horizontal 
-      "editor.tabSize": 2,
-      "editor.renderLineHighlight": "gutter",
-      "terminal.integrated.fontSize": 14,
-      "emmet.syntaxProfiles": {
-          "javascript": "jsx", //autocomplete js
-      },
-      "emmet.includeLanguages": {
-          "javascript": "javascriptreact"
-      },
-      "javascript.updateImportsOnFileMove.enabled": "never", // previne que o editor altere os imports
-      "breadcrumbs.enabled": true, //arvores de pastas do arquivo,
-      "editor.parameterHints.enabled": false, //evita mostrar a documentação da função
-    }
+
+
+                  "workbench.colorTheme": "Dracula",
+                  "editor.fontSize": 18,
+                  "editor.lineHeight": 24,
+                  "workbench.iconTheme": "vscode-icons",
+                  "editor.formatOnSave": true, //formatar e endentar o arquivo
+                  "editor.rulers": [
+                      80,
+                      120
+                  ], // define o espaçamento horizontal 
+                  "editor.tabSize": 2,
+                  "editor.renderLineHighlight": "gutter",
+                  "terminal.integrated.fontSize": 14,
+                  "emmet.syntaxProfiles": {
+                      "javascript": "jsx", //autocomplete js
+                  },
+                  "emmet.includeLanguages": {
+                      "javascript": "javascriptreact"
+                  },
+                  "javascript.updateImportsOnFileMove.enabled": "never", // previne que o editor altere os imports
+                  "breadcrumbs.enabled": true, //arvores de pastas do arquivo,
+                  "editor.parameterHints.enabled": false, //evita mostrar a documentação da função
+                }
   
 
 ### Instalando plugins
