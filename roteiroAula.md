@@ -65,7 +65,15 @@
         9.3 Colocar na barra de endereço o caminho da request
         9.4 send
         
-
+10. nodemon
+        
+        Atulizar o servidor de forma automatica
+        yarn add nodemon -D //instalar em modo de desenvolvimento
+        alterar o package.json
+            "scripts" : {
+                "dev": "nodemon index.js"
+            },
+        terminal: yarn dev
         
         
         
