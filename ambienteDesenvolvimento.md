@@ -1,6 +1,7 @@
 # Configuração VsCode
 
 
+               {
                   "workbench.colorTheme": "Dracula",
                   "editor.fontSize": 18,
                   "editor.lineHeight": 24,
