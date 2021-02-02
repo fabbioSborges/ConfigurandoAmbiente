@@ -7,12 +7,13 @@
   
 3. Criar o arquivo package json
   yarn init -y
-    {
-      "name": "primeiraAplicação",
-      "version": "1.0.0", //versão 
-      "main": "index.js",
-      "license": "MIT"
-    }
+
+        {
+          "name": "primeiraAplicação",
+          "version": "1.0.0", //versão 
+          "main": "index.js",
+          "license": "MIT"
+        }
 
   package.json = guarda as dependendcias da aplicação
   
